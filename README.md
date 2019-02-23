@@ -17,18 +17,18 @@ iOS系统权限简单封装
 
 ```
 	<key>NSCameraUsageDescription</key>
-​	<string>开启访问相机权限可以拍摄您喜欢的照片设置为菜品样照</string>
-​	<key>NSPhotoLibraryAddUsageDescription</key>
-​	<string>开启添加照片权限可以将您喜欢的图片保存在本地相册</string>
-​	<key>NSPhotoLibraryUsageDescription</key>
-​	<string>开启访问相册权限可以选择您喜欢的照片设置为菜品样照</string>
-​   <key>NSLocationUsageDescription</key>
-​   <string>开启定位权限可以选择您的店铺位置</string>
-​   <key>NSLocationWhenInUseUsageDescription</key>
-​   <string>开启定位权限可以选择您的店铺位置</string>
+	<string>开启访问相机权限可以拍摄您喜欢的照片设置为菜品样照</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>开启添加照片权限可以将您喜欢的图片保存在本地相册</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>开启访问相册权限可以选择您喜欢的照片设置为菜品样照</string>
+    <key>NSLocationUsageDescription</key>
+    <string>开启定位权限可以选择您的店铺位置</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>开启定位权限可以选择您的店铺位置</string>
 ```
 
-![image-20190223165039223](/Users/dusmit/Library/Application Support/typora-user-images/image-20190223165039223.png)
+![image-20190223165039223](https://github.com/dusmit/Privacy/image-20190223165039223.png)
 
 ### 使用方法
 
